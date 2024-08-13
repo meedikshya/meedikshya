@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **MERN Project**
  
  🌱 I’m currently learning **ReactJs, NodeJS, dotnet**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact about me **I sing like Phoebe👀 but i love music🎵**
 
  </div>
  
@@ -24,10 +24,7 @@
   </a>
   <a href="https://www.linkedin.com/in/dikshyasharma0405/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!-- <a href="https://meedikshya.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+  
 </div>
 
  <hr/>
@@ -35,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,Reactjs,nodejs,Bootstrap,Tailwind" />
+    <img src="https://skillicons.dev/icons?i=sql,sqlplus,git,github,vscode,eclipseIDE,windows,linux" /><br>
 </div>
 
 <br/>
